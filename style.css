@@ -1,0 +1,67 @@
+.li-navbar{
+    list-style-type: none;
+    padding: 20px;
+    color: black;
+    margin: 10px;
+   font-size: 12px;
+   display: inline;
+}
+
+.a-navbar{
+    text-decoration: none;
+   font-family: arial;
+   color: black
+}
+.table{
+    align-items: none;
+    text-indent: 30%;
+    color: black
+}
+
+.p-navbar{
+    font-size: 15px;
+    align-items: center;
+    display: inline;
+    margin: 5px;
+    padding: 190px;
+}
+
+.c-navbar{
+    font-size: 25px;
+    align-items: center;
+    display: inline;
+    margin: 5px;
+    padding: 190px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.k-navbar{
+    font-size: 13px;
+    color: blue;
+    padding: 190px;
+    margin: 5px;
+}
+
+.z-navbar{
+    font-size: 15px;
+    align-items: center;
+    display: inline;
+    margin: 5px;
+    padding: 190px;
+}
+
+.o-navbar{
+    list-style-type: none;
+    padding: 170px;
+    color: black;
+    margin: 10px;
+   font-size: 12px;
+   display: inline;
+}
+
+.l-navbar{
+    color: black;
+    font-size: 16px;
+    line-height: 2;
+    margin-bottom: 17px;
+}
